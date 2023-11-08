@@ -8,5 +8,5 @@ MIT
 
 ## Author Information
 
-This repository was creatd 2023 by [Kurt Thomas Steinert](https://www.linkedin.com/in/contact-steinert/).
+This repository was created 2023 by [Kurt Thomas Steinert](https://www.linkedin.com/in/contact-steinert/).
 
