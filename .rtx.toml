@@ -8,7 +8,8 @@ minikube = "1.31.2"
 
 [env]
 # poetry
-POETRY_ACTIVE="1"
+POETRY_ACTIVE="true"
+POETRY_VIRTUALENVS_IN_PROJECT="true"
 POETRY_VIRTUALENVS_PATH=".venv"
 VIRTUAL_ENV=".venv"
 
