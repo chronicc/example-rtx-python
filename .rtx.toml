@@ -1,5 +1,5 @@
 env_path = [
-  ".venv/bin"
+  "./.venv/bin"
 ]
 
 [tools]
